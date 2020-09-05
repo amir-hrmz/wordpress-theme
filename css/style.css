@@ -28,6 +28,17 @@
 
     z-index: 2;
 }
+.z-index{
+    z-index: 99;
+}
+.parallax-box
+{
+    position: relative;
+    display: block;
+    min-width: 100%;
+    overflow: visible;
+    bottom: 56px;
+}
 .parallax{
     left: -5px;
     background-color: rgb(255, 255, 255);
